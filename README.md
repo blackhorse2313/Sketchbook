@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://jblaha.art/sketchbook/latest"><img src="./src/img/thumbnail.png"></a>
+	<a><img src="./src/img/thumbnail.png"></a>
 	<br>
 </p>
 
